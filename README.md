@@ -30,5 +30,4 @@ A maior comunidade conectada, em um contexto de redes sociais, se refere ao grup
 3-Rodar o programa
 4-Verificar a saída, onde exibirá a lista de amigos e maior comunidade
 
-
-Integrantes do grupo: André Lucas, Beni Davi, Wemerson Miranda
+Feito por: Wemerson Miranda
